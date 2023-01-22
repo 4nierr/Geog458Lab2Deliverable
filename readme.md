@@ -20,3 +20,11 @@ These word clouds include a few of the same ideas in them such as the City of Se
 
 #### Reasons for patterns
 I believe there are some patterns in this data for a few reasons. I think part of it has to do with the fact that its Twitter and it is such a broad audience of users. It is also so easy to send out a tweet without putting much thought into it, which leads to some of those ranting tweets. I feel as though that some of these were written because so and so's roommate didnt pay rent, so they complained on Twitter. Or another being that Nike Town in downtown is closing because of the homeless.
+
+#### How to improve
+I think the best way I could improve is by getting the full tweets rather than just the shortened versions that were provided by this package. I also think it would be beneficial to me to apply for an academic account which would allow me to go back further in time and select specific dates that could be key areas to study.
+
+#### CSV downloads
+[Homeless CSV](https://github.com/4nierr/Geog458Lab2Deliverable/blob/main/assets/twsearch-result-1.csv)
+[Housing CSV](https://github.com/4nierr/Geog458Lab2Deliverable/blob/main/assets/twsearch-result-2.csv)
+[Rent CSV](https://github.com/4nierr/Geog458Lab2Deliverable/blob/main/assets/twsearch-result-3.csv)
