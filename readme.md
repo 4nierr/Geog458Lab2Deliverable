@@ -26,5 +26,7 @@ I think the best way I could improve is by getting the full tweets rather than j
 
 #### CSV downloads
 [Homeless CSV](https://github.com/4nierr/Geog458Lab2Deliverable/blob/main/assets/twsearch-result-1.csv)
+
 [Housing CSV](https://github.com/4nierr/Geog458Lab2Deliverable/blob/main/assets/twsearch-result-2.csv)
+
 [Rent CSV](https://github.com/4nierr/Geog458Lab2Deliverable/blob/main/assets/twsearch-result-3.csv)
